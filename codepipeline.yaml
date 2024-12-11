@@ -12,7 +12,7 @@ Parameters:
 
   RepositoryName:
     Type: String
-    Default: cloud-basics4 #replace with your github repository name
+    Default: cloud-basics4.git #replace with your github repository name
     AllowedPattern: "[A-Za-z0-9-]+"
 
   BranchName:
